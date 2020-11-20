@@ -5,7 +5,7 @@ theme = "parsa"
 summaryLength = "10"
 paginate = 6
 
-publishDir = "output"
+publishDir = "docs"
 
 # output
 [outputs]
