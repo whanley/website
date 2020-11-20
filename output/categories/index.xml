@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Will Hanley | Historical International Legal Computational</title>
+    <link>https://willhanley.net/categories/</link>
+    <description>Recent content in Categories on Will Hanley | Historical International Legal Computational</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://willhanley.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computational methods</title>
+      <link>https://willhanley.net/categories/computational-methods/</link>
+      <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://willhanley.net/categories/computational-methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opinion</title>
+      <link>https://willhanley.net/categories/opinion/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://willhanley.net/categories/opinion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to</title>
+      <link>https://willhanley.net/categories/how-to/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://willhanley.net/categories/how-to/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Datasets</title>
+      <link>https://willhanley.net/categories/datasets/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://willhanley.net/categories/datasets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://willhanley.net/categories/projects/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://willhanley.net/categories/projects/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
