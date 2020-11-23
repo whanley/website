@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Datasets on Will Hanley | Historical International Legal Computational</title>
-    <link>https://willhanley.net/datasets/</link>
+    <link>https://whanley.github.io/website/datasets/</link>
     <description>Recent content in Datasets on Will Hanley | Historical International Legal Computational</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://willhanley.net/datasets/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://whanley.github.io/website/datasets/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alexandria data</title>
-      <link>https://willhanley.net/datasets/alexandria-datasets/</link>
+      <link>https://whanley.github.io/website/datasets/alexandria-datasets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://willhanley.net/datasets/alexandria-datasets/</guid>
+      <guid>https://whanley.github.io/website/datasets/alexandria-datasets/</guid>
       <description>Alexandria  1897-census-streets ayamb inventories italian indemnities 1882 british-subjects-alexandria-1888 indicateur-egyptien-1897 tunisians-egypt-1881  </description>
     </item>
     
     <item>
       <title>Egypt Data</title>
-      <link>https://willhanley.net/datasets/egypt-datasets/</link>
+      <link>https://whanley.github.io/website/datasets/egypt-datasets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://willhanley.net/datasets/egypt-datasets/</guid>
+      <guid>https://whanley.github.io/website/datasets/egypt-datasets/</guid>
       <description>Egypt  tribunaux mixtes personnel  </description>
     </item>
     
     <item>
       <title>International Law Data</title>
-      <link>https://willhanley.net/datasets/international-law-datasets/</link>
+      <link>https://whanley.github.io/website/datasets/international-law-datasets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://willhanley.net/datasets/international-law-datasets/</guid>
+      <guid>https://whanley.github.io/website/datasets/international-law-datasets/</guid>
       <description>International Law Journals  bslc clunet rdilc annidi  </description>
     </item>
     
     <item>
       <title>Ottoman Place Data</title>
-      <link>https://willhanley.net/datasets/ottoman-place-datasets/</link>
+      <link>https://whanley.github.io/website/datasets/ottoman-place-datasets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://willhanley.net/datasets/ottoman-place-datasets/</guid>
+      <guid>https://whanley.github.io/website/datasets/ottoman-place-datasets/</guid>
       <description>Placenames Tahir Sezen&amp;rsquo;s Osmanli Yer Adlari 1530 Places </description>
     </item>
     
