@@ -233,13 +233,9 @@ body {
   }
 }
 
-ol {
-  list-style-type: decimal;
-  margin: 0px;
-}
-
+ol,
 ul {
-  list-style-type: disc;
+  list-style-type: none;
   margin: 0px;
 }
 
@@ -856,15 +852,13 @@ blockquote {
 .tag-list li a:hover {
   color: #ff6f00;
 }
-
-/*# sourceMappingURL=maps/style.css.map */
-
-img[src$='#floatleft']
-{
-	float:left;
+.instagram-slider{
+  height: 200px;
+  overflow: hidden;
 }
 
-img[src$='#floatright']
-{
-	float:right;
+.instagram-post img{
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
 }

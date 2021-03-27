@@ -85,7 +85,7 @@ contact_form_action = "#"
 # Google Analitycs
 google_analitycs_id = "Your ID"
 # copyright
-copyright = "Copyright &copy; 2020"
+copyright = "Copyright CC BY-NC-SA 4.0"
 
 # Instagram feed
 [params.instafeed]
@@ -99,9 +99,9 @@ expire_days = 2
 
 # social site
 [[params.social]]
-icon = "ti-twitter-alt"
-url = "hanleyWill"
+  icon = "ti-twitter-alt"
+  url = "https://twitter.com/HanleyWill"
 
 [[params.social]]
-icon = "ti-github"
-url = "whanley"
+  icon = "ti-github"
+  url = "https://github.com/whanley"
