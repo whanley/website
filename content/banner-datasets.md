@@ -1,7 +1,7 @@
 ---
 title: "Datasets to share"
 date: 2019-02-15
-description: "This is meta description"
+description: "This is meta description of datasets"
 type: "featured"
 image: "images/featured-post/garlic.jpg"
 categories:
