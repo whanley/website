@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Featureds on Will Hanley | Historical International Legal Computational</title>
+    <link>https://willhanley.net/featured/</link>
+    <description>Recent content in Featureds on Will Hanley | Historical International Legal Computational</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate><atom:link href="https://willhanley.net/featured/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Documentation, Tutorials, and Teaching</title>
+      <link>https://willhanley.net/featured/tutorials/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://willhanley.net/featured/tutorials/</guid>
+      <description>I continue to learn how to document my own work. If it helps others, great.</description>
+    </item>
+    
+    <item>
+      <title>Academic and general writing</title>
+      <link>https://willhanley.net/featured/opinion/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://willhanley.net/featured/opinion/</guid>
+      <description>I post my academic work, including downloadable PDFs, in Zenodo&amp;rsquo;s repositories or via my ORCID profile.</description>
+    </item>
+    
+    <item>
+      <title>Datasets to share</title>
+      <link>https://willhanley.net/featured/datasets/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://willhanley.net/featured/datasets/</guid>
+      <description>I&amp;rsquo;m committed to data sharing and reuse. I post data I&amp;rsquo;ve used or am using on github.</description>
+    </item>
+    
+    <item>
+      <title>Standalone projects</title>
+      <link>https://willhanley.net/featured/projects/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://willhanley.net/featured/projects/</guid>
+      <description>I&amp;rsquo;ve undertaken a few standalone projects.
+Digital Egyptian gazette dig-eg-gaz.github.io</description>
+    </item>
+    
+  </channel>
+</rss>

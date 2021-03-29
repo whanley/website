@@ -65,7 +65,10 @@
     <loc>https://willhanley.net/tags/documentation/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url><url>
-    <loc>https://willhanley.net/banner-tutorials/</loc>
+    <loc>https://willhanley.net/featured/tutorials/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url><url>
+    <loc>https://willhanley.net/featured/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url><url>
     <loc>https://willhanley.net/categories/how-to/</loc>
@@ -83,7 +86,7 @@
     <loc>https://willhanley.net/tags/tutorial/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url><url>
-    <loc>https://willhanley.net/banner-opinion/</loc>
+    <loc>https://willhanley.net/featured/opinion/</loc>
     <lastmod>2019-02-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://willhanley.net/tags/commodities/</loc>
@@ -92,7 +95,7 @@
     <loc>https://willhanley.net/categories/datasets/</loc>
     <lastmod>2019-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://willhanley.net/banner-datasets/</loc>
+    <loc>https://willhanley.net/featured/datasets/</loc>
     <lastmod>2019-02-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://willhanley.net/tags/finance/</loc>
@@ -110,7 +113,7 @@
     <loc>https://willhanley.net/tags/publications/</loc>
     <lastmod>2019-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://willhanley.net/banner-projects/</loc>
+    <loc>https://willhanley.net/featured/projects/</loc>
     <lastmod>2019-02-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://willhanley.net/blog/2018-04-21-classical-charters/</loc>
