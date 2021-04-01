@@ -36,3 +36,5 @@ adding academic icons:
 [[params.plugins.css]]
 link = "plugins/academic-icons/academicons.css"
 ```
+
+need to do something about styling of bullets
