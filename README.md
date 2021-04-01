@@ -27,3 +27,12 @@ img[src$='#floatright']
     /* whatever else styles you fancy here */
 }
 ```
+
+adding academic icons:
+- downloaded [academicons](https://github.com/jpswalsh/academicons/archive/v1.9.1.zip) zip
+- put the fonts folder and `academicons.css` into `.../themes/parsa/static/plugins/academic-icons/`
+- added these lines to my `config.toml`:
+```
+[[params.plugins.css]]
+link = "plugins/academic-icons/academicons.css"
+```

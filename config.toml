@@ -57,11 +57,6 @@ name = "About"
 url = "about"
 weight = 2
 
-[[menu.main]]
-name = "Datasets"
-url = "datasets"
-weight = 3
-
 # deult parameter
 [params]
 logo = "images/logo.png"
