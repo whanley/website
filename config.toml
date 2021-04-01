@@ -18,6 +18,8 @@ link = "plugins/bootstrap/bootstrap.min.css"
 link = "plugins/slick/slick.css"
 [[params.plugins.css]]
 link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+link = "plugins/academic-icons/academicons.css"
 
 # JS Plugins
 [[params.plugins.js]]
@@ -100,8 +102,16 @@ expire_days = 2
 # social site
 [[params.social]]
   icon = "ti-twitter-alt"
-  url = "https://twitter.com/HanleyWill"
+  link = "https://twitter.com/HanleyWill"
 
 [[params.social]]
   icon = "ti-github"
-  url = "https://github.com/whanley"
+  link = "https://github.com/whanley"
+
+[[params.social]]
+  icon = "ai-orcid"
+  link = "https://orcid.org/0000-0002-1832-6805"
+
+[[params.social]]
+  icon = "ai-zenodo"
+  link = "https://zenodo.org/search?page=1&size=20&q=owners:%2020288&sort=-publication_date"
