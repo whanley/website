@@ -1,6 +1,6 @@
 building personal site
 
-adding certain lines to parsa css:
+adding certain lines to parsa css: go into `/assets/css/style.css` (maybe in theme, but preferably in top level?)
 
 meant to allow images to be moved within text
 ```
@@ -28,6 +28,14 @@ img[src$='#floatright']
 }
 ```
 
+styling of bullets, change `ol,ul` stuff:
+```
+ul {
+ list-style-type: disc;
+ margin: 0px;
+}
+```
+
 adding academic icons:
 - downloaded [academicons](https://github.com/jpswalsh/academicons/archive/v1.9.1.zip) zip
 - put the fonts folder and `academicons.css` into `.../themes/parsa/static/plugins/academic-icons/`
@@ -37,4 +45,6 @@ adding academic icons:
 link = "plugins/academic-icons/academicons.css"
 ```
 
-need to do something about styling of bullets
+
+
+To get head "featured" image in "featured" pages to be left justified, normal size, go to `/themes/parsa/layouts/_default/single.html`. For the `regular page`, change img line attributes: `class="img-fluid rounded float-left mr-5 mb-4"`. (probably could do this better by adding another page type, but)
