@@ -96,15 +96,21 @@
     <div class="row">
       <div class="col-lg-12">
         <h2 class="mb-4">Datasets to share</h2>
-        <img src="https://willhanley.net/images/featured-post/garlic.jpg" alt="Will Hanley" class="img-fluid rounded float-left mr-5 mb-4">
-        <div class="content"><p>I&rsquo;m committed to data sharing and reuse. I post data I&rsquo;ve used or am using on github. I try to post descriptions, changelogs, and data dictionaries here and there. Caveat emptor!</p>
-<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->This <!-- raw HTML omitted -->work<!-- raw HTML omitted --> is licensed under a <!-- raw HTML omitted -->Creative Commons Attribution-NonCommercial 4.0 International License<!-- raw HTML omitted -->.</p>
+        <img src="https://willhanley.net/images/featured-post/garlic.jpg" alt="Will Hanley" class="img-fluid rounded float-right mr-5 mb-4">
+        <div class="content"><p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->This <!-- raw HTML omitted -->work<!-- raw HTML omitted --> is licensed under a <!-- raw HTML omitted -->Creative Commons Attribution-NonCommercial 4.0 International License<!-- raw HTML omitted -->.</p>
+<p>I&rsquo;m committed to data sharing and reuse. The data listed below is the product of transformations I&rsquo;ve done myself, using various tools: OpenRefine, especially, but also regex editing in batches.</p>
+<p>I&rsquo;ve tried to post descriptions, changelogs, and data dictionaries in the github repositories. I&rsquo;m getting better at doing this work systematically, but it&rsquo;s a hard habit to establish. I&rsquo;m also trying to post releases via Zenodo, so that each data repository has a <a href="https://en.wikipedia.org/wiki/Digital_object_identifier">DOI</a>.</p>
+<p>The material is in a variety of formats: mostly plain text (<code>csv</code>, <code>tsv</code>), some XML, some Turtle (<code>.ttl</code>) for RDF use, and some OpenRefine projects.</p>
+<p><em>Quantity</em> and <em>Quality</em> are shorthand fields meant to offer a quick sense of each dataset. Quantity is number of records or, in the case of tabular datsets, rows x columns. Quality is graded A-D, and refers to the amount of ordering, checking, cleaning, parsing, and enrichment that I&rsquo;ve achieved. In other words, it&rsquo;s a measure of my confidence that the data I present represents the content of the original analogue sources.</p>
+<h3 id="person-names-egypt">Person Names (Egypt)</h3>
+<p>doi: <a href="https://doi.org/10.5281/zenodo.4628298">10.5281/zenodo.4628298</a></p>
 <table>
 <thead>
 <tr>
 <th>Name</th>
 <th>Year(s)</th>
 <th>Format(s)</th>
+<th>Quantity</th>
 <th>Quality</th>
 <th>Link</th>
 <th>Source</th>
@@ -115,53 +121,151 @@
 <td>British Subjects in Alexandria</td>
 <td>1888</td>
 <td>csv, ttl</td>
+<td>1084 x 16</td>
 <td>A</td>
-<td><a href="https://github.com/whanley/names-data/tree/master/british-subjects-alexandria-1888">https://github.com/whanley/names-data/tree/master/british-subjects-alexandria-1888</a></td>
+<td><a href="https://github.com/whanley/names-data/tree/master/british-subjects-alexandria-1888">github directory</a></td>
 <td>National Archives of the United Kingdom, FO 881/5968</td>
 </tr>
 <tr>
 <td>Indicateur Egyptien</td>
 <td>1897</td>
 <td>csv</td>
+<td>6200 x 25</td>
 <td>A</td>
-<td><a href="https://github.com/whanley/names-data/tree/master/indicateur-egyptien-1897">https://github.com/whanley/names-data/tree/master/indicateur-egyptien-1897</a></td>
+<td><a href="https://github.com/whanley/names-data/tree/master/indicateur-egyptien-1897">github directory</a></td>
 <td><a href="https://gallica.bnf.fr/ark:/12148/bpt6k58024532">Poffandi, Stefano G., ed. <em>1897 Indicateur Égyptien Administratif et Commercial</em>. 11th ed. (Alexandria: Imprimerie Générale, 1896)</a></td>
 </tr>
 <tr>
 <td>Tunisians in Egypt</td>
 <td>1881-4</td>
 <td>csv, tsv, ttl</td>
+<td>303 x 52</td>
 <td>A</td>
-<td><a href="https://github.com/whanley/names-data/tree/master/tunisians-egypt-1881">https://github.com/whanley/names-data/tree/master/tunisians-egypt-1881</a></td>
+<td><a href="https://github.com/whanley/names-data/tree/master/tunisians-egypt-1881">github directory</a></td>
 <td>Filib Jallad, Qamus al-idarah wa-al-qadaʾ, 3rd ed. (Cairo: Matbaʿat Dar al-Kutub wa-al-Wathaʾiq al-Qawmiyah, 2003), 2:296–300;  Ministère des Affaires Étrangères, Centre des Archives Diplomatiques de Nantes - Fonds Alexandrie: Recensement—Tunisiens 69/69–73.</td>
 </tr>
 </tbody>
 </table>
-<h2 id="alexandria">Alexandria</h2>
+<h3 id="ottoman-placenames">Ottoman Placenames</h3>
+<p>doi: <a href="https://doi.org/10.5281/zenodo.4660215">10.5281/zenodo.4660215</a></p>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Year(s)</th>
+<th>Format(s)</th>
+<th>Quantity</th>
+<th>Quality</th>
+<th>Link</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ottoman administrative divisions</td>
+<td>13th-20th centuries</td>
+<td>tsv, ttl</td>
+<td>11989 x 25</td>
+<td>A</td>
+<td><a href="https://github.com/whanley/Ottoman-Gazetteer/tree/master/data/archived-versions">tsv</a>, <a href="https://github.com/whanley/Ottoman-Gazetteer/blob/master/data/ottgaz.ttl">ttl</a>, <a href="https://github.com/whanley/Ottoman-Gazetteer/blob/master/data/metadata_dictionary.md">data dictionary</a></td>
+<td>Tahir Sezen&rsquo;s <a href="http://www.os-ar.com/osmanli_yer_isimleri.pdf">Osmanlı Yer Adları</a></td>
+</tr>
+<tr>
+<td>Ottoman place names</td>
+<td>1530</td>
+<td>tsv</td>
+<td>121080 x 13</td>
+<td>C</td>
+<td><a href="https://github.com/whanley/Ottoman-Gazetteer/tree/master/data/1530-places">github directory</a></td>
+<td>to be supplied</td>
+</tr>
+<tr>
+<td>Ontology</td>
+<td>13th - 20th centuries</td>
+<td>ttl</td>
+<td>7</td>
+<td>C</td>
+<td><a href="https://github.com/whanley/Ottoman-Gazetteer/tree/master/ontology">github directory</a></td>
+<td>me</td>
+</tr>
+</tbody>
+</table>
+<h3 id="egypt-historical-data">Egypt historical data</h3>
+<p>doi: <a href="https://doi.org/10.5281/zenodo.4660261">10.5281/zenodo.4660261</a></p>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Year(s)</th>
+<th>Format(s)</th>
+<th>Quantity</th>
+<th>Quality</th>
+<th>Link</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Census tables, Alexandria</td>
+<td>1897, 1907, 1917</td>
+<td>csv</td>
+<td></td>
+<td>B</td>
+<td><a href="https://github.com/whanley/egypt-data/tree/main/alexandria-census">github directory</a></td>
+<td>originals</td>
+</tr>
+</tbody>
+</table>
+<p>to come:</p>
 <ul>
-<li>1897-census-streets</li>
-<li>ayamb inventories</li>
-<li>italian indemnities 1882</li>
-<li>british-subjects-alexandria-1888</li>
-<li>indicateur-egyptien-1897</li>
-<li>tunisians-egypt-1881</li>
+<li>Alexandria export data|1905</li>
+<li>Italian indemnities|1882|</li>
+<li>Tribunaux mixtes personnel|</li>
 </ul>
-<h2 id="egypt">Egypt</h2>
-<ul>
-<li>tribunaux mixtes personnel</li>
-</ul>
-<h2 id="ottoman-placenames">Ottoman Placenames</h2>
-<ul>
-<li>Tahir Sezen&rsquo;s Osmanli Yer Adlari</li>
-<li>1530 Places</li>
-</ul>
-<h2 id="international-law-journals">International Law Journals</h2>
-<ul>
-<li>bslc</li>
-<li>clunet</li>
-<li>rdilc</li>
-<li>annidi</li>
-</ul>
+<h3 id="international-law-journals">International Law Journals</h3>
+<p>doi: <a href="https://doi.org/10.5281/zenodo.4660225">10.5281/zenodo.4660225</a></p>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Year(s)</th>
+<th>Format(s)</th>
+<th>Quantity</th>
+<th>Quality</th>
+<th>Link</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bulletin de la Société de législation comparée</td>
+<td>1869-1939</td>
+<td>TEI-XML</td>
+<td>404 issues</td>
+<td>C</td>
+<td><a href="https://github.com/whanley/ilcorpus/tree/master/journals/bslc">github directory</a></td>
+<td>various facsimiles</td>
+</tr>
+<tr>
+<td>Journal du droit international privé et de la jurisprudence comparée (Clunet)</td>
+<td>1874-1939</td>
+<td>TEI-XML</td>
+<td>324 issues</td>
+<td>C</td>
+<td><a href="https://github.com/whanley/ilcorpus/tree/master/journals/clunet">github directory</a></td>
+<td>various facsimiles</td>
+</tr>
+<tr>
+<td>Revue de droit international et de législation comparée</td>
+<td>1869-1939</td>
+<td>TEI-XML</td>
+<td>65 volumes</td>
+<td>C-</td>
+<td><a href="https://github.com/whanley/ilcorpus/tree/master/journals/rdilc">github directory</a></td>
+<td>various facsimiles</td>
+</tr>
+</tbody>
+</table>
 </div>
       </div>
     </div>
