@@ -4,7 +4,7 @@ title = "Will Hanley | Historical International Legal Computational"
 theme = "parsa"
 summaryLength = "10"
 paginate = 6
-
+googleAnalytics = "G-ZYJGE3FQDN"
 publishDir = "docs"
 
 # output
