@@ -50,12 +50,42 @@ link = "plugins/search/search.js"
 name = "Will Hanley | Historical International Legal Computational"
 url = ""
 weight = 1
-hasChildren = false
+
+[[menu.main]]
+name = "Content"
+url = ""
+weight = 2
+hasChildren = true
+
+  [[menu.main]]
+  parent = "Content"
+  name = "How to"
+  url = "featured/tutorials"
+
+  [[menu.main]]
+  parent = "Content"
+  name = "Writing"
+  url = "featured/opinion"
+
+  [[menu.main]]
+  parent = "Content"
+  name = "Data"
+  url = "featured/datasets"
+
+  [[menu.main]]
+  parent = "Content"
+  name = "Projects"
+  url = "featured/projects"  
+
+[[menu.main]]
+name = "Blog"
+url = "blog"
+weight = 3
 
 [[menu.main]]
 name = "About"
 url = "about"
-weight = 2
+weight = 4
 
 # deult parameter
 [params]
@@ -64,7 +94,7 @@ home = "Home"
 # theme layout ( two layout is available, "1" and "2" )
 layout = "1"
 # Meta data
-description = "This is meta description"
+description = "Website of Will Hanley"
 # Preloader
 preloader = true
 # search
@@ -83,11 +113,6 @@ contact_form_action = "#"
 google_analitycs_id = "Your ID"
 # copyright
 copyright = "Copyright CC BY-NC-SA 4.0"
-
-# Instagram feed
-[params.instafeed]
-enable = false
-access_token = "#"
 
 # cookies
 [params.cookies]
