@@ -30,4 +30,4 @@ I post my academic work, including downloadable PDFs, in [Zenodo's repositories]
 
 **Non-academic**
 
-On the blog section of this site, I also post copies of non-academic pieces, such as op eds I've written for my local paper, the [Tallahassee Democrat](http://tallahassee.com). For better or worse, I also use [Twitter](http://twitter.com/HanleyWill).
+On the blog section of this site, I also post copies of non-academic pieces, such as op eds I've written for my local paper, the [Tallahassee Democrat](http://tallahassee.com). For better or worse, I also use [Mastodon](https://scholar.social/@whanley).

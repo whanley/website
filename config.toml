@@ -20,6 +20,8 @@ link = "plugins/slick/slick.css"
 link = "plugins/themify-icons/themify-icons.css"
 [[params.plugins.css]]
 link = "plugins/academic-icons/css/academicons.css"
+[[params.plugins.css]]
+link = "plugins/fontawesome/css/brands.css"
 
 # JS Plugins
 [[params.plugins.js]]
@@ -121,8 +123,8 @@ expire_days = 2
 
 # social site
 [[params.social]]
-  icon = "ti-twitter-alt"
-  link = "https://twitter.com/HanleyWill"
+  icon = "fa-brands fa-mastodon"
+  link = "https://scholar.social/@whanley"
 
 [[params.social]]
   icon = "ti-github"

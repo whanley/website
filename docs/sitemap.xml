@@ -3,10 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://willhanley.net/blog/</loc>
-    <lastmod>2020-11-18T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://willhanley.net/categories/</loc>
-    <lastmod>2020-11-18T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://willhanley.net/categories/opinion/</loc>
+    <lastmod>2022-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://willhanley.net/tags/police/</loc>
+    <lastmod>2022-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://willhanley.net/tags/</loc>
+    <lastmod>2022-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://willhanley.net/tags/tallahassee/</loc>
+    <lastmod>2022-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://willhanley.net/blog/2022-09-16-tpd-militarization/</loc>
+    <lastmod>2022-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://willhanley.net/</loc>
+    <lastmod>2022-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://willhanley.net/tags/florida/</loc>
+    <lastmod>2021-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://willhanley.net/tags/fsu/</loc>
+    <lastmod>2021-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://willhanley.net/blog/2021-05-23-fsu-president/</loc>
+    <lastmod>2021-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://willhanley.net/categories/computational-methods/</loc>
     <lastmod>2020-11-18T00:00:00+00:00</lastmod>
@@ -23,13 +50,7 @@
     <loc>https://willhanley.net/blog/2020-11-18-pashas-to-wikidata/</loc>
     <lastmod>2020-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://willhanley.net/tags/</loc>
-    <lastmod>2020-11-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://willhanley.net/tags/wikidata/</loc>
-    <lastmod>2020-11-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://willhanley.net/</loc>
     <lastmod>2020-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://willhanley.net/about/</loc>
@@ -41,22 +62,13 @@
     <loc>https://willhanley.net/tags/cycling/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://willhanley.net/categories/opinion/</loc>
-    <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://willhanley.net/tags/politics/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://willhanley.net/blog/2020-09-18-tour-de-france/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://willhanley.net/tags/fsu/</loc>
-    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://willhanley.net/blog/2020-02-16-traffic-violence/</loc>
-    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://willhanley.net/tags/tallahassee/</loc>
     <lastmod>2020-02-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://willhanley.net/tags/traffic/</loc>
@@ -114,9 +126,6 @@
     <lastmod>2018-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://willhanley.net/tags/charter-schools/</loc>
-    <lastmod>2018-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://willhanley.net/tags/florida/</loc>
     <lastmod>2018-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://willhanley.net/blog/2016-04-15-a-belgian-bombing-in-istanbul/</loc>
