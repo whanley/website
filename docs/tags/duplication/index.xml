@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>duplication on Will Hanley | Historical International Legal Computational</title>
+    <link>https://willhanley.net/tags/duplication/</link>
+    <description>Recent content in duplication on Will Hanley | Historical International Legal Computational</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://willhanley.net/tags/duplication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reconciling place names</title>
+      <link>https://willhanley.net/blog/2017-10-31-reconciling-records/</link>
+      <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://willhanley.net/blog/2017-10-31-reconciling-records/</guid>
+      <description>Today I&amp;rsquo;m archiving (what I hope will be) the final non-RDF version of the Ottoman gazetteer.</description>
+    </item>
+    
+  </channel>
+</rss>

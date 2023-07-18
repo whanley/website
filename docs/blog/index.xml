@@ -71,6 +71,51 @@
     </item>
     
     <item>
+      <title>Back to multirow</title>
+      <link>https://willhanley.net/blog/2017-12-09-back-to-multirow/</link>
+      <pubDate>Sat, 09 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://willhanley.net/blog/2017-12-09-back-to-multirow/</guid>
+      <description>I&amp;rsquo;ve had to create one more non-RDF version, Ottgaz-data-9. This version reorganizes the data in a way I should have long ago.</description>
+    </item>
+    
+    <item>
+      <title>Reconciling place names</title>
+      <link>https://willhanley.net/blog/2017-10-31-reconciling-records/</link>
+      <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://willhanley.net/blog/2017-10-31-reconciling-records/</guid>
+      <description>Today I&amp;rsquo;m archiving (what I hope will be) the final non-RDF version of the Ottoman gazetteer.</description>
+    </item>
+    
+    <item>
+      <title>Periodizing the Ottoman Gazetteer</title>
+      <link>https://willhanley.net/blog/2017-10-28-dating-periodo/</link>
+      <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://willhanley.net/blog/2017-10-28-dating-periodo/</guid>
+      <description>Change over time is a conceptual challenge in any historical gazetteer.</description>
+    </item>
+    
+    <item>
+      <title>Metadata dictionary</title>
+      <link>https://willhanley.net/blog/2017-10-07-metadata-dictionary/</link>
+      <pubDate>Sat, 07 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://willhanley.net/blog/2017-10-07-metadata-dictionary/</guid>
+      <description>This gazetteer is a transformation of tables in Tahir Sezen&amp;rsquo;s Osmanlı Yer Adları (Ottoman Place Names), available here and in many other places.</description>
+    </item>
+    
+    <item>
+      <title>Transforming the Osmanlı Yer Adları</title>
+      <link>https://willhanley.net/blog/2017-10-06-transforming-oya/</link>
+      <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://willhanley.net/blog/2017-10-06-transforming-oya/</guid>
+      <description>The initial data for this gazetteer is a transformed version of Tahir Sezen&amp;rsquo;s 1996 Osmanlı Yer Adları.</description>
+    </item>
+    
+    <item>
       <title>A Belgian Bombing in Istanbul: How Small States Manage Terrorist Moments</title>
       <link>https://willhanley.net/blog/2016-04-15-a-belgian-bombing-in-istanbul/</link>
       <pubDate>Fri, 15 Apr 2016 13:21:40 +0000</pubDate>

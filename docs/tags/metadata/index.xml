@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>metadata on Will Hanley | Historical International Legal Computational</title>
+    <link>https://willhanley.net/tags/metadata/</link>
+    <description>Recent content in metadata on Will Hanley | Historical International Legal Computational</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Oct 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://willhanley.net/tags/metadata/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Metadata dictionary</title>
+      <link>https://willhanley.net/blog/2017-10-07-metadata-dictionary/</link>
+      <pubDate>Sat, 07 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://willhanley.net/blog/2017-10-07-metadata-dictionary/</guid>
+      <description>This gazetteer is a transformation of tables in Tahir Sezen&amp;rsquo;s Osmanlı Yer Adları (Ottoman Place Names), available here and in many other places.</description>
+    </item>
+    
+  </channel>
+</rss>

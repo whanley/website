@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OpenRefine on Will Hanley | Historical International Legal Computational</title>
+    <title>openrefine on Will Hanley | Historical International Legal Computational</title>
     <link>https://willhanley.net/tags/openrefine/</link>
-    <description>Recent content in OpenRefine on Will Hanley | Historical International Legal Computational</description>
+    <description>Recent content in openrefine on Will Hanley | Historical International Legal Computational</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 18 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://willhanley.net/tags/openrefine/index.xml" rel="self" type="application/rss+xml" />
@@ -23,6 +23,15 @@
       
       <guid>https://willhanley.net/blog/2020-11-18-pashas-to-wikidata/</guid>
       <description>I am experimenting with Wikidata as a research data repository. If I systematically upload various datasets, can I a) make wikidata more global and useful, and b) learn more about my own evidence?</description>
+    </item>
+    
+    <item>
+      <title>Transforming the Osmanlı Yer Adları</title>
+      <link>https://willhanley.net/blog/2017-10-06-transforming-oya/</link>
+      <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://willhanley.net/blog/2017-10-06-transforming-oya/</guid>
+      <description>The initial data for this gazetteer is a transformed version of Tahir Sezen&amp;rsquo;s 1996 Osmanlı Yer Adları.</description>
     </item>
     
   </channel>
